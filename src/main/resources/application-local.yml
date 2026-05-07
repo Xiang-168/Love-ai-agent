@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: ai-agent
+  ai:
+    dashscope:
+      # 需要替换为你自己的 key
+      api-key: sk-03927e64d0404686aaa3e58850d9805c
+      chat:
+        option:
+          model: qwq-plus
