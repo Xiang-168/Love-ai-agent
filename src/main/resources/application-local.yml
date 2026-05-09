@@ -8,3 +8,7 @@ spring:
       chat:
         option:
           model: qwq-plus
+datasource:
+  url: jdbc:mysql://rm-cn-bpl4rffho0001v4o.rwlb.rds.aliyuncs.com:5432/ai_agent
+  username: my_user
+  password: Hzx666...
